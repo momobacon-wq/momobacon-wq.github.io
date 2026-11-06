@@ -1,0 +1,4 @@
+# 只允許加密後的頁面進版控,避免明文電話資料被誤 commit
+/*
+!/index.html
+!/.gitignore
